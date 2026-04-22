@@ -15,7 +15,7 @@ Ce projet a pour but de modéliser 4 probabilités de succès personnels comme d
 
 | Concept | Application personnelle |
 |---|---|
-| **Value at Risk (VaR)** | "Risk d'abandon" — VaR historique, paramétrique et Monte Carlo sur chaque probabilité |
+| **Value at Risk (VaR)** | "Risk d'abandon" —> VaR historique, paramétrique et Monte Carlo sur chaque probabilité |
 | **Stress Tests** | Fermeture des programmes de stage, 10 refus consécutifs, crise de confiance à -40% (je ne perds jamais confiance c'est uniquement pour la simulation ;)) |
 | **Greeks (Δ Γ ν Θ)** | Delta (effort), Gamma (accélération Hyperfocus), Vega (antifragilité), Theta (coût de l'inaction) |
 | **UpMarket / DownMarket** | Capture Ratios démontrant l'avantage asymétrique de la résilience |
