@@ -5,7 +5,7 @@
 
 ---
 
-**Et si nous appliquionst les méthodes quantitatives à un profil humain ?**
+**Et si nous appliquions les méthodes quantitatives à un profil humain ?**
 
 Ce projet a pour but de modéliser 4 probabilités de succès personnels comme des actifs financiers. J'ai décidé d'appliquer les concepts quantitatifs suivants : VaR, Stress Tests, Greeks, Capture Ratios. L'objectif étant de démontrer qu'un profil humain considéré comme "atypique" peut être considéré comme un **actif à haute convexité** avec des pertes bornées mais surtout avec un potentiel de hausse positivement asymétrique (basé sur la Skewness).
 
