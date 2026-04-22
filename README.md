@@ -53,7 +53,7 @@ Ce projet a pour but de modéliser 4 probabilités de succès personnels comme d
 
 ##  À propos
 
-Sur le papier, rien ne me prédestinait réellement à postuler pour un stage de 3 mois en tant que Risk Analyst chez Banque Hottinguer. Dans les faits, j'ai construit ce dashboard pour vous prouver ma valeur de façon quelque peu originale en utilisant la VaR, des stress tests, les greeks... Le but étant de vous montrer Monsieur Mariko, Monsieur Rezk, Monsieur Mazeghrane, que les mêmes mécanismes qui font qu'un actif atypique est sous-évalué par le marché font aussi qu'un profil "atypique" peut être sous-évalué par les recruteurs.
+Sur le papier, rien ne me prédestinait réellement à postuler pour un stage de 3 mois en tant que Risk Analyst chez Banque Hottinguer. Dans les faits, j'ai construit ce dashboard pour vous prouver ma valeur de façon quelque peu originale en utilisant la VaR, des stress tests, les greeks... Le but étant de vous montrer Monsieur Mariko, Monsieur Rezk, Monsieur Mazeghrane, que les mêmes mécanismes qui font qu'un actif atypique est sous-évalué par le marché, font aussi qu'un profil "atypique" peut être sous-évalué par les recruteurs.
 
 **La résilience n'est pas un soft skill. C'est un avantage asymétrique quantifiable.**
 
